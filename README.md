@@ -4,6 +4,10 @@ Community headphone EQ profile for the **Sennheiser Momentum M2 (wired)** based 
 
 ---
 
+[![POSTER.png](https://i.postimg.cc/7Yv96fFQ/POSTER.png)](https://postimg.cc/23wh9884)
+
+
+
 ## Compatible devices (via RME Remote Control)
 
 * ADI-2
@@ -29,7 +33,6 @@ Community headphone EQ profile for the **Sennheiser Momentum M2 (wired)** based 
 * It is based on community measurements and subjective tuning.
 * Small adjustments may be needed depending on your headphones' pad wear or hearing preference.
 
-[![POSTER.png](https://i.postimg.cc/7Yv96fFQ/POSTER.png)](https://postimg.cc/23wh9884)
 ## Disclaimer
 
 This profile is provided **as-is**, without warranty of any kind.
