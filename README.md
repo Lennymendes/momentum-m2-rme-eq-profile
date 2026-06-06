@@ -13,17 +13,7 @@ Community headphone EQ profile for the **Sennheiser Momentum M2 (wired)** based 
 * ADI-2 Pro FS Black Edition
 * ADI-2 Pro EX
 
-## Installation
-
-1. Open **TotalMix FX** on the host computer.
-2. Select the **headphone output channel**.
-3. Open the **EQ section**.
-4. Enter the filter settings provided below.
-5. Save the configuration as a **Snapshot** or **Workspace**.
-6. The preset can then be controlled remotely via **TotalMix Remote**.
-
-
-## Import / Load (RME ADI Remote workflow)
+## Installation / Import / Load (RME ADI Remote workflow)
 
 1. Open the **RME Remote Control app**.
 2. Go to the **EQ / Room EQ preset section**.
@@ -39,7 +29,7 @@ Community headphone EQ profile for the **Sennheiser Momentum M2 (wired)** based 
 * It is based on community measurements and subjective tuning.
 * Small adjustments may be needed depending on your headphones' pad wear or hearing preference.
 
-
+[![POSTER.png](https://i.postimg.cc/7Yv96fFQ/POSTER.png)](https://postimg.cc/23wh9884)
 ## Disclaimer
 
 This profile is provided **as-is**, without warranty of any kind.
